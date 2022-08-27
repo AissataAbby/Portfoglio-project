@@ -24,6 +24,13 @@ h1 {
   font-size: 68px;
 }
 
+h2 {
+  font-size: 44px;
+}
+
+h4 {
+  font-size: 18px;
+}
 p {
   font-weight: normal;
 }
